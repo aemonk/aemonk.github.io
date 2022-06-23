@@ -5,7 +5,7 @@ Datum: 2022-06-23
 Bild: "2022-02-14-the-mangata-playbook-part-3-cover.png"
 author: "Mangata Team"
 author-image: "mangata-team.png"
-excerpt: "<p>Dieser Beitrag stellt Ihnen die Mangata X Tokenomiks vor. Zuerst geben wir Ihnen eine Zusammenfassung, dann gehen wir in die Tiefe, um unsere Gedanken dahinter zu erklären.</p>"
+excerpt: "Dieser Beitrag stellt Ihnen die Mangata X Tokenomiks vor. Zuerst geben wir Ihnen eine Zusammenfassung, dann gehen wir in die Tiefe, um unsere Gedanken dahinter zu erklären."
 ---
 
 ![Das Mangata Playbook Teil 3 Cover](2022-02-14-the-mangata-playbook-part-3-cover.png)
