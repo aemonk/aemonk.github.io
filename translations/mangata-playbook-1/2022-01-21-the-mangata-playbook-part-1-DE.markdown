@@ -18,7 +18,7 @@ nachdem wir Ende 2021 unser [Mangata X Announcement](https://blog.mangata.financ
 
 Da nun jede Woche mehr Menschen unserer Gemeinschaft beitreten, lernen sie Mangata kennen und entwickeln ein gemeinsames mentales Modell über **Kapitaleffizienz und Fairness** und wie man eine Kette (chain) von Grund auf darum herum aufbauen kann. Das ist großartig und eine Herausforderung zugleich. Es bedeutet, dass wir viel mehr Zeit darauf verwenden müssen, die Grundlagen und die Bausteine zu erklären, die Mangata so großartig machen.
 
-![Eine Mindmap, die die Beziehungen zwischen den Mangata-Konzepten zeigt](/assets/posts/2022-01-21-mindmap.png)
+![Eine Mindmap, die die Beziehungen zwischen den Mangata-Konzepten zeigt](2022-01-21-mindmap.png)
 
 Um es einfacher zu machen, haben wir uns entschlossen, den endgültigen Leitfaden darüber zu schreiben, was Mangata ist und wie wir planen, ein erfolgreiches Produkt, Token und eine Gemeinschaft zu schaffen: **Das Mangata Playbook**.
 
