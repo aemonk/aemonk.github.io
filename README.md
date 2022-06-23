@@ -19,26 +19,28 @@ I write about a wide variety of things, check it out.
 
 ### Hyper Club
 
-- [Interview: OjraOjra_qq](interviews/hyper-club/ojraojra.md)
-- [Interview: Rory Hyper](interviews/hyper-club/rory-hyper.md)
-- [Interview: replvyhyper](interviews/hyper-club/replvyhyper.md)
-- [Interview: harunoheart](interviews/hyper-club/harunoheart.md)
-- [Interview: Toska Saturna](interviews/hyper-club/toska-saturna.md)
-- [Interview: dank](interviews/hyper-club/dank.md)
-- [Interview: makeitreal](interviews/hyper-club/makeitreal.md)
+- Interviews
+  - [OjraOjra_qq](interviews/hyper-club/ojraojra.md)
+  - [Rory Hyper](interviews/hyper-club/rory-hyper.md)
+  - [replvyhyper](interviews/hyper-club/replvyhyper.md)
+  - [harunoheart](interviews/hyper-club/harunoheart.md)
+  - [Toska Saturna](interviews/hyper-club/toska-saturna.md)
+  - [dank](interviews/hyper-club/dank.md)
+  - [makeitreal](interviews/hyper-club/makeitreal.md)
 
 ### Chaos Collective
 
 - [Chaos Collective Album](articles/cc/cc-album-1-en.md)
-- [Interview: kusama-acid](interviews/cc/kusama-acid.md)
-- [Interview: gabrealMusic](interviews/cc/gabrealMusic.md)
-- [Interview: terraIncUK](interviews/cc/terraIncUK.md)
-- [Interview: fr-om](interviews/cc/from.md)
-- [Interview: bowserStaxx](interviews/cc/bowserStaxx.md)
-- [Interview: leifwyn](interviews/cc/leifwyn.md)
-- [Interview: aurion](interviews/cc/aurion.md)
-- [Interview: rich-Valentino](interviews/cc/rich-valentino.md)
-- [Interview: IAMYOU](interviews/cc/iamyou.md)
+- Interviews
+- [kusama-acid](interviews/cc/kusama-acid.md)
+- [gabrealMusic](interviews/cc/gabrealMusic.md)
+- [terraIncUK](interviews/cc/terraIncUK.md)
+- [fr-om](interviews/cc/from.md)
+- [bowserStaxx](interviews/cc/bowserStaxx.md)
+- [leifwyn](interviews/cc/leifwyn.md)
+- [aurion](interviews/cc/aurion.md)
+- [rich-Valentino](interviews/cc/rich-valentino.md)
+- [IAMYOU](interviews/cc/iamyou.md)
 
 ---
 
