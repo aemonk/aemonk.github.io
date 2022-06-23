@@ -32,15 +32,15 @@ I write about a wide variety of things, check it out.
 
 - [Chaos Collective Album](articles/cc/cc-album-1-en.md)
 - Interviews
-- [kusama-acid](interviews/cc/kusama-acid.md)
-- [gabrealMusic](interviews/cc/gabrealMusic.md)
-- [terraIncUK](interviews/cc/terraIncUK.md)
-- [fr-om](interviews/cc/from.md)
-- [bowserStaxx](interviews/cc/bowserStaxx.md)
-- [leifwyn](interviews/cc/leifwyn.md)
-- [aurion](interviews/cc/aurion.md)
-- [rich-Valentino](interviews/cc/rich-valentino.md)
-- [IAMYOU](interviews/cc/iamyou.md)
+  - [kusama-acid](interviews/cc/kusama-acid.md)
+  - [gabrealMusic](interviews/cc/gabrealMusic.md)
+  - [terraIncUK](interviews/cc/terraIncUK.md)
+  - [fr-om](interviews/cc/from.md)
+  - [bowserStaxx](interviews/cc/bowserStaxx.md)
+  - [leifwyn](interviews/cc/leifwyn.md)
+  - [aurion](interviews/cc/aurion.md)
+  - [rich-Valentino](interviews/cc/rich-valentino.md)
+  - [IAMYOU](interviews/cc/iamyou.md)
 
 ---
 
